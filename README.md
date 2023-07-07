@@ -74,7 +74,7 @@ esp_lvgl
 #define LV_TICK_CUSTOM 1
 //第736行修改为
 #define LV_USE_DEMO_KEYPAD_AND_ENCODER 1
-//第135-141行这些demo使用都需要修改lv_conf.h配置，参考上面一行，否则编译不通过
+//第135-141行这些demo使用都需要修改lv_conf.h配置，参考上面第736行，否则编译不通过
 ```
 
 最后修改 [main.cpp](src%2Fmain.cpp) 文件
