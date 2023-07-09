@@ -58,7 +58,7 @@ esp_lvgl
      |-other_lib_2
      |-lv_conf.h
 ```
-![img.png](img.png)
+![img.png](images/img1.png)
 
 
 这里只做演示，是使用的官方实例 不想修改太多配置 所以需要拷贝文件
